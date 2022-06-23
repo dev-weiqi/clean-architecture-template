@@ -19,4 +19,4 @@ A template for a new app project
 
 ## Screenshots
 
-<img src="readme/demo.gif" width="480"></img>
+<img src="demo/demo.gif" width="480"></img>
